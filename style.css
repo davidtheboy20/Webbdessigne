@@ -24,3 +24,7 @@ a:hover {
 .bcolor {
   background-color: pink;
 }
+
+.bimage {
+  background-image: url("bakground.png");
+}
