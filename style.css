@@ -20,3 +20,7 @@ body {
 a:hover {
   color: hotpink;
 }
+
+.bcolor {
+  background-color: pink;
+}
