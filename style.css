@@ -2,6 +2,12 @@ body {
   background-color: lightblue;
 }
 
-p {
+.fraga {
   font-size:1.3vw;
+  font-color:darkred
+}
+
+.svar {
+  font-size:1.1vw;
+  font-color:darkgrey
 }
