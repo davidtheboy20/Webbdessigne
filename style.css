@@ -15,3 +15,8 @@ body {
 #bildflyt {
   float: right;  
 }
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
